@@ -1,0 +1,28 @@
+{
+  "id": "slice2",
+  "type": "SharedSlice",
+  "name": "Slice2",
+  "description": "Slice2",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "are_you_interested_in_3d_design": {
+          "type": "Boolean",
+          "config": {
+            "label": "Are you interested in 3D design ",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
